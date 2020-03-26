@@ -28,7 +28,7 @@ Vagrant.configure('2') do |config|
             vb.cpus = 1
         end
 
-        machine.vm.synced_folder "DevOps2/", "/home/vagrant/notes"
+        machine.vm.synced_folder "DevOps2/", "/home/vagrant/mission"
         machine.vm.provision "file", source: "~/.vagrant.d/insecure_private_key", destination: "$HOME/.ssh/id_rsa"
     end
 end
