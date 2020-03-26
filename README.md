@@ -32,6 +32,10 @@ cd DevOps2
 vagrant up
 vagrant ssh
 ```
+## mission
+```
+Read your mission in ~/vagrant/mission
+```
 ## Network
 Vagrant VM will be set up with 2 network adapters
 ```
