@@ -1,0 +1,31 @@
+Inloggen als root
+
+sudo -i 
+
+gebruiker testuser toevoegen
+
+gebruiker testuser inspecteren
+
+/bin/bash toevoegen aan testuser toevoegen
+
+getent passwd testuser
+
+checken of de gebruiker Linda bestaat
+
+Gebruiker John inclusief home directory verwijderen
+
+locken van de gebruikers Linda
+
+password status controleren van Linda
+
+gebruiker Linda unlocken
+
+Groep testgroup aanmaken
+
+Gebruiker Linda aan testgroup toevoegen
+
+wat is Linda haar primaire groep
+
+Gebruikers Linda een groep verwijderen
+
+Group testgroup verwijderen
