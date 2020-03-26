@@ -21,7 +21,7 @@ Vagrant.configure('2') do |config|
 
     config.vm.define :DevOps2, primary: true do |machine|
         machine.vm.host_name = "DevOps2.local"
-        machine.vm.network "private_network", ip: "192.168.1.1"
+        machine.vm.network "private_network", ip: "192.168.10.5"
         config.vm.provision "shell", inline: $useraddscript
 
         machine.vm.provider "virtualbox" do |vb|

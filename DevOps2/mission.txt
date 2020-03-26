@@ -22,10 +22,10 @@ gebruiker Linda unlocken
 
 Groep testgroup aanmaken
 
-Gebruiker Linda aan testgroup toevoegen
+Gebruiker Anna aan testgroup toevoegen
 
-wat is Linda haar primaire groep
+wat is Anna haar primaire groep
 
-Gebruikers Linda een groep verwijderen
+Gebruiker Anna uit de groep team verwijderen
 
-Group testgroup verwijderen
+Group team verwijderen
