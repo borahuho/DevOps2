@@ -32,6 +32,12 @@ cd DevOps2
 vagrant up
 vagrant ssh
 ```
+## Network
+Vagrant VM will be set up with 2 network adapters
+```
+Nat : DHCP
+Localhost : 192.168.10.5
+```
 ## Vagrant commands
 Make a new VM with Vagrant
 ```
