@@ -28,7 +28,7 @@ Open Git Bash in Windows
 cd Documents
 mkdir vagrant && cd vagrant
 git clone https://github.com/borahuho/DevOps2
-cd DevOps1
+cd DevOps2
 vagrant up
 vagrant ssh
 ```
