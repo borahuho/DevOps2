@@ -12,10 +12,16 @@ This setup is the second to practice with my students.
 Works on Windows 10
 
 Software needed:
-* Vagrant 2.2.6 or higher
 * Virtualbox 5.0 or higher
 * Git bash for Windows
+* Vagrant 2.2.6 or higher
 ```
+
+## Demo installation
+```
+Youtube: https://youtu.be/KABnIuaA8SM
+```
+
 ## Installation
 ```
 Install Virtualbox: https://www.virtualbox.org/wiki/Downloads
