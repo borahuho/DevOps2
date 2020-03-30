@@ -29,7 +29,7 @@ Install Git bash for Windows: https://gitforwindows.org/
 Install Vagrant for Windows: https://www.vagrantup.com/downloads.html
 ```
 ## Run this Vagrant VM
-Open Git Bash in Windows
+Open **Git Bash** in Windows
 ```
 cd Documents
 mkdir vagrant && cd vagrant
