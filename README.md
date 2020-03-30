@@ -17,7 +17,7 @@ Software needed:
 * Vagrant 2.2.6 or higher
 ```
 
-## Demo installation
+## Demo installation && use Vagrant
 ```
 Youtube: https://youtu.be/KABnIuaA8SM
 ```
